@@ -39,6 +39,8 @@ button{
     background-color: #808080;
     height: 2em;
     margin: 0.5em;
+    color: white;
+    line-height: 30px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -51,7 +53,6 @@ button{
 }
 
 .nav-list-link{
-    color: white;
     text-decoration: none;
     margin: 0.5em;
 }
