@@ -32,14 +32,13 @@ button{
 
 .nav-list{
     padding: 0px;
-    margin: 0px;
     list-style-type: none;
 }
 
 .nav-list-item{
     background-color: #808080;
     height: 2em;
-    margin: 0.5em;
+    margin-bottom: 0.5em;
     color: white;
     line-height: 30px;
     white-space: nowrap;
